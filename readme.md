@@ -108,7 +108,7 @@ Vtex Store Themes
       </a>
       </td>
       <td align="center">
-      <a href="https://github.com/thiago-tga"><img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4D03AQHR-AZMVpN9iA/profile-displayphoto-shrink_400_400/0/1610584257602?e=1616025600&v=beta&t=-nYa_s1xQjXgPNRmpIPf1EWWFsXH3Px7dHmpzEMj-2I" width="100px;" alt=""/><br /><sub><b>Thiago Gomes</b></sub>
+      <a href="https://github.com/thiago-tga"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/71797559?v=4" width="100px;" alt=""/><br /><sub><b>Thiago Gomes</b></sub>
       </a>
       <br />
       <a href="https://github.com/thiago-tga" title="GitHub">💻
