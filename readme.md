@@ -72,10 +72,10 @@ Vtex Store Themes
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/ericwdw"><img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4E03AQGpNM1tpAROkg/profile-displayphoto-shrink_800_800/0/1610571216667?e=1616025600&v=beta&t=VKiTo1YaXKHklmhfhyom6S4SIeqIGlc-v7lD28Iggh4" width="100px;" alt=""/><br /><sub><b>Eric Abrunhosa</b></sub>
+      <a href="https://github.com/Inaralmeida"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/71791646?v=4" width="100px;" alt=""/><br /><sub><b>Inara Almeida</b></sub>
       </a>
       <br />
-      <a href="https://github.com/ericwdw" title="GitHub">💻
+      <a href="https://github.com/Inaralmeida" title="GitHub">💻
       <a href="https://www.instagram.com/abrunhosaeric/" title="instagram">📷
       <a href="https://www.linkedin.com/in/eric-gomes-silva-abrunhosa-119176114/" title="linkedin">💼
       </a>
