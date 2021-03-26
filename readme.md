@@ -114,8 +114,10 @@ Vtex Store Themes
       <a href="https://github.com/thiago-tga" title="GitHub">💻
       <a href="https://www.instagram.com/thiaguio/" title="instagram">📷
       <a href="https://www.linkedin.com/in/thiago-araujo-23761115a/" title="linkedin">💼
-
-<br>
+      </a>
+      </td>
+  </tr>
+</table>
 
 :tw-1f380: Expressões de gratidão
 
