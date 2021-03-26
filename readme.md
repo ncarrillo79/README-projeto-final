@@ -76,7 +76,7 @@ Vtex Store Themes
       </a>
       <br />
       <a href="https://github.com/Inaralmeida" title="GitHub">💻
-      <a href="https://www.instagram.com/abrunhosaeric/" title="instagram">📷
+      <a href="https://www.instagram.com/inaralmeida1/" title="instagram">📷
       <a href="https://www.linkedin.com/in/inaralmeida/" title="linkedin">💼
       </a>
       </td>
@@ -85,7 +85,7 @@ Vtex Store Themes
       </a>
       <br />
       <a href="https://github.com/mainara07" title="GitHub">💻
-      <a href="https://www.instagram.com/guiiaaraujo_/" title="instagram">📷
+      <a href="https://www.instagram.com/_mainara/" title="instagram">📷
       <a href="https://www.linkedin.com/in/mainara-assis-5800a38a/" title="linkedin">💼
       </a>
       </td>
