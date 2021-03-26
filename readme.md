@@ -119,7 +119,7 @@ Vtex Store Themes
   </tr>
 </table>
 
-:tw-1f380: Expressões de gratidão
+## Agradecimentos
 
 - Gostariámos de agradecer a RESILIA em primer lugar, pela oportunidade de nos formar, em segundo lugar a VTEX pela oportunidade de aplicar os nossos conhecimentos e desenvolvermos nossas habilidades na construção de nossa solução para o projeto.
 
