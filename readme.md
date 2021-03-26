@@ -48,7 +48,7 @@ depois na linha de comandos
 Via npm
 npm start
 
-Via Yarn
+Via yarn
 yarn start
 
 Suporte a navegadores
@@ -66,3 +66,24 @@ Samsung Ópera
 ## Créditos de imagem
 
 Vtex Store Themes
+
+## ✒️ Os Participantes
+
+:fa-cog: Thiago Araujo\*\* - _Back-end_ - [GitHub]()
+
+:tw-1f4a1: Inara Almeida\*\* - _Front_ - [GitHub]()
+
+:tw-1f4bb:Mainara de Assis\*\* - _Design_ - [Portfolio]()
+
+:tw-1f4d0: Scarlate Alves\*\* - _Front_ - [GitHub]()
+
+:tw-1f4bc:Norma Carrillo\*\* - _Front_ - [GitHub]()
+
+<br>
+
+:tw-1f380: Expressões de gratidão
+
+- Gostariámos de agradecer a RESILIA em primer lugar, pela oportunidade de nos formar, em segundo lugar a VTEX pela oportunidade de aplicar os nossos conhecimentos e desenvolvermos nossas habilidades na construção de nossa solução para o projeto.
+
+- Obrigada a todos as pessoas que nos motivaram e apoiaram ao longo do desenvolvimento deste projeto.
+  <br>
